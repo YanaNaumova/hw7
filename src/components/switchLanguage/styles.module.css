@@ -1,0 +1,7 @@
+.btn {
+  border-radius: 15px;
+  border: 2px solid blue;
+  background-color: #9b52df;
+  color: black;
+  max-width: 100px;
+}
